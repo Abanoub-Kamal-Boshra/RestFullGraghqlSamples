@@ -1,0 +1,4 @@
+create graphql for the REST API you created in lab1 that have:
+    allArticles: with optional last parameter to get last x articles from MongoDB, if not provided get all articles
+    deleteArticle: deletes article by id from MongoDB
+    createArticle: creates an article in MongoDB
